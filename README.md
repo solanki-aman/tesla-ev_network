@@ -2,16 +2,19 @@
 
 Tesla has been a very popular car in the Electric Cars market. With 20,000+ Superchargers globally, some people still hesitate to buy a Tesla because of the range anxiety. This paper focuses on developing a location optimization model to propose additional Supercharger locations aiming to lower potential buyer’s range anxiety. Additionally, a charging time simulation model emphasis on average charge time any Tesla would take to be fully charged at a nearest Supercharger Station. The Tesla Supercharger Network data is collected from Tesla’s official website using Beautiful Soup (Web Scraping). The visualization were created using Tableau. This paper only takes charging stations in Bay Area into consideration. 
    
-<img width="121" alt="Screenshot 2021-04-07 113554" src="https://user-images.githubusercontent.com/63038070/113917058-97f0e400-9795-11eb-8073-96b447055ad2.png">
+
 <img width="1507" alt="Screenshot 2021-04-07 113537" src="https://user-images.githubusercontent.com/63038070/113917060-98897a80-9795-11eb-80d2-17c38346f29d.png">
-###### Tesla Supercharging Station in the Bay Area.
-###### The size of the circle represents the number of chargers at the stations and the color represents the rate at which the specific Supercharger can charge a Tesla.
+<img width="121" alt="Screenshot 2021-04-07 113554" src="https://user-images.githubusercontent.com/63038070/113917058-97f0e400-9795-11eb-8073-96b447055ad2.png">
+##### Tesla Supercharging Station in the Bay Area.
+##### The size of the circle represents the number of chargers at the stations and the color represents the rate at which the specific Supercharger can charge a Tesla.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="677" alt="Picture1" src="https://user-images.githubusercontent.com/63038070/113916987-7ee83300-9795-11eb-95ad-35a273646edc.png">
 <img width="752" alt="Picture2" src="https://user-images.githubusercontent.com/63038070/113916988-7f80c980-9795-11eb-82c2-3ef506aca161.png">
 <img width="120" alt="Picture3" src="https://user-images.githubusercontent.com/63038070/113916989-80196000-9795-11eb-86c3-db517c925f71.png">
-###### Tree map for Tesla Superchargers in Bay Area Counties.
-###### The color represents the rate at which the specific Supercharger can charge a Tesla. The numbers in the box represent the number of station at the specific address.
+##### Tree map for Tesla Superchargers in Bay Area Counties.
+##### The color represents the rate at which the specific Supercharger can charge a Tesla. The numbers in the box represent the number of station at the specific address.
 
 
 ## Location Optimization Model
