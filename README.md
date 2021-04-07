@@ -40,7 +40,7 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 ## Charging Time Simulation Model
 
 | Model Name	| Model Description	| Range (EPA est.) (miles)	| Battery Size (kWh)	| Vehicle Energy Efficiency (miles/kWh)| 
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Model 3	| Standard Range Plus	| 263	| 75	| 3.506666667| 
 | Model Y	| Performance	| 303	| 80	| 3.7875| 
 | Model 3	| Performance	| 315	| 80	| 3.9375| 
