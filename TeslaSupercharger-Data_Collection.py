@@ -196,7 +196,7 @@ telsaEV_ca['Full_Address'] = telsaEV_ca['Full_Address'].replace('Third', '3rd', 
 
 
 #collect longtitude and latitudes based on the full address
-gmaps = googlemaps.Client(key='AIzaSyDEtplNYD9h74Qu8F8Sq7DhudfsgA6KHlI') 
+gmaps = googlemaps.Client(key='') 
 
 latList = []
 lngList = []
