@@ -3,12 +3,7 @@
 
 # # Tesla Supercharger Stations
 
-# ### BAN 630 Project (Optimization Methods For Analytics)
-
 # ### Aman Solanki
-
-# In[1]:
-
 
 import pandas as pd
 import numpy as np
@@ -19,9 +14,6 @@ from uszipcode import SearchEngine #collect county data
 from bs4 import BeautifulSoup
 import requests
 import re
-
-
-# In[2]:
 
 
 #tesla website with all supercharger addresses
@@ -42,16 +34,10 @@ r = s.get(url, headers=req_headers)
 soup = BeautifulSoup(r.content, 'html.parser')
 
 
-# In[3]:
-
-
 #find address and url of the supercharger
 address = soup.find_all('span', attrs={'class': 'street-address'})
 locality = soup.find_all('span', attrs={'class': 'locality'})
 urlSoup = soup.find_all('a', attrs={'class': 'fn org url'})
-
-
-# In[4]:
 
 
 #if the address is null, consider it as an upcoming supercharger station
@@ -63,16 +49,10 @@ for i in address:
         ev_address.append(str(i).split('>')[1].split('<')[0])
 
 
-# In[5]:
-
-
 #city, state and zipcode of the supercharger
 ev_locality = []
 for j in locality:
     ev_locality.append(str(j).split('>')[1].split('<')[0])
-
-
-# In[6]:
 
 
 #url of the specific supercharger
@@ -80,9 +60,6 @@ superChargerURL = []
 for i in urlSoup:
     text = str(i)
     superChargerURL.append(text.split()[4].split('>')[0].split('=')[1].strip(' " " '))
-
-
-# In[7]:
 
 
 #transform the collected data into a data frame
@@ -93,47 +70,17 @@ tesla_ev['URL'] = superChargerURL
 tesla_ev['Supercharger_Link'] = 'http://www.tesla.com' + tesla_ev['URL']
 
 
-# In[8]:
-
-
-tesla_ev.head()
-
-
-# In[9]:
-
-
 #drop incomplete url data
 tesla_ev = tesla_ev.drop(['URL'],axis=1)
-
-
-# In[10]:
-
-
-tesla_ev.head()
-
-
-# In[11]:
-
 
 #considering only California Supercharging Stations
 telsaEV_ca = tesla_ev[tesla_ev['Locality'].str.contains('CA')] 
 
 
-# In[12]:
-
-
 #drop upcoming Supercharing Stations
 comingSoonStations = telsaEV_ca[tesla_ev['Address'].str.contains('Coming-Soon')].index
 
-
-# In[13]:
-
-
 telsaEV_ca = telsaEV_ca.drop(comingSoonStations)
-
-
-# In[14]:
-
 
 #split city and zipcode data from Locality column
 cityList = []
@@ -150,16 +97,8 @@ for i in telsaEV_ca['Locality']:
 telsaEV_ca['City'] = cityList
 telsaEV_ca['ZipCode'] = zipCodeList
 
-
-# In[15]:
-
-
 #drop Locality column
 telsaEV_ca = telsaEV_ca.drop(columns='Locality')
-
-
-# In[16]:
-
 
 #append county name based on zipcode
 search = SearchEngine(simple_zipcode=True)
@@ -172,28 +111,12 @@ for i in telsaEV_ca['ZipCode']:
     
 telsaEV_ca['County'] = countyList
 
-
-# In[17]:
-
-
 #drop any record with missing value
 telsaEV_ca = telsaEV_ca.dropna() 
 
-
-# In[18]:
-
-
 telsaEV_ca.info()
 
-
-# In[19]:
-
-
 telsaEV_ca.head()
-
-
-# In[20]:
-
 
 #collect number of stations and charging rate threshold for each supercharger
 chargingRateList = []
@@ -245,43 +168,22 @@ telsaEV_ca['ChargingStations'] = stationList
 telsaEV_ca['ChargingRate'] = chargingRateList
 
 
-# In[21]:
-
-
 telsaEV_ca.head()
-
-
-# In[22]:
-
 
 #clean collected data
 telsaEV_ca['ChargingStations'] = telsaEV_ca['ChargingStations'].str[0]
 telsaEV_ca['ChargingRate'] = telsaEV_ca['ChargingRate'].str[0]
 
-
-# In[23]:
-
-
 telsaEV_ca.isnull().sum() #4 missing values
-
-
-# In[24]:
-
 
 #replace missing values
 telsaEV_ca['ChargingStations'] = telsaEV_ca['ChargingStations'].replace(np.nan, '8', regex=True)
 telsaEV_ca['ChargingRate'] = telsaEV_ca['ChargingRate'].replace(np.nan, '72', regex=True)
 
-
-# In[25]:
-
-
 telsaEV_ca.head()
 
 
 # ## Geocode Data (Google Maps API)
-
-# In[26]:
 
 
 #reset index and create a new column for accurate location data
@@ -289,14 +191,8 @@ telsaEV_ca = telsaEV_ca.reset_index(drop=True)
 telsaEV_ca['Full_Address'] = telsaEV_ca['Address'] + ', ' + telsaEV_ca['City']
 
 
-# In[27]:
-
-
 telsaEV_ca['Full_Address'] = telsaEV_ca['Full_Address'].replace('North', 'N', regex=True)
 telsaEV_ca['Full_Address'] = telsaEV_ca['Full_Address'].replace('Third', '3rd', regex=True)
-
-
-# In[29]:
 
 
 #collect longtitude and latitudes based on the full address
@@ -316,44 +212,17 @@ for i in telsaEV_ca['Full_Address']:
 telsaEV_ca['Longitude'] = latList
 telsaEV_ca['Latitude'] = lngList
 
-
-# In[30]:
-
-
 telsaEV_ca.head()
-
-
-# In[31]:
-
 
 telsaEV_ca = telsaEV_ca.drop(columns='Full_Address')
 
-
-# In[32]:
-
-
 telsaEV_ca.to_csv("telsaEV_ca.csv")
-
-
-# In[33]:
-
 
 telsaEV_ca = telsaEV_ca.drop(columns='Supercharger_Link')
 
-
-# In[34]:
-
-
 telsaEV_ca.to_csv("telsaEV_ca.csv")
 
-
-# In[35]:
-
-
 telsaEV_ca.head()
-
-
-# In[ ]:
 
 
 
