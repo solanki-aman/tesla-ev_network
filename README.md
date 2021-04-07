@@ -54,6 +54,9 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 #### Table 1.1 – Tesla Car Specifications
 #### Source – Tesla.com, Wikipedia.com
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 | Range		| Cars	| Total Cars 	| Probability	| 
 | :---: 	| :---:	| :---:		| :---:         | 
 | 250-299	| 1	| 10		| 0.1		| 
@@ -63,6 +66,9 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 | 450+		| 1	| 10		| 0.1		| 
 #### Table 1.2 – Range Probability of Tesla Car arriving at a Supercharger. 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 | Charging Rate (kW)	| Stations	| Total Stations	| Probability| 
 | :---: 		| :---: 	| :---: 		| :---:      | 
 | 72			| 56		| 179			| 0.312849162| 
@@ -71,6 +77,8 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 | 150			| 67		| 179			| 0.374301676| 
 | 250			| 53		| 179			| 0.296089385| 
 #### Table 1.3 – Charging Rate Probability of a Tesla Supercharger Station.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
