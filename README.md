@@ -16,7 +16,7 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 	xs ,ys = Coordinates of New Supercharger Station
 #### Calculated value:
 	di = Distance between New Supercharger Station and Existing Supercharger Station:
-	d_i=√(〖(x_s-x_i)〗^2+〖(y_s-y_i)〗^2 )
+	di = √([(xs-xi]^2 + [(ys-yi)]^2 )
 #### Objective: minimize distance between two stations: 
 	∑ di
 
