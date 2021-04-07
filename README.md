@@ -51,26 +51,25 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 | Model S	| Plaid			| 390				| 90			| 4.333333333				| 
 | Model S	| Long Range		| 412				| 90			| 4.577777778				| 
 | Model S	| Plaid+		| 521				| 100			| 5.21					| 
-
 #### Table 1.1 – Tesla Car Specifications
 #### Source – Tesla.com, Wikipedia.com
 
-| Range	Cars	Total Cars 	Probability
-| 250-299	1	10	0.1
-| 300-349	4	10	0.4
-| 350-399	3	10	0.3
-| 400-449	1	10	0.1
-| 450+	1	10	0.1
-
+| Range		| Cars	| Total Cars 	| Probability	| 
+| :---: 	| :---:	| :---:		| :---:         | 
+| 250-299	| 1	| 10		| 0.1		| 
+| 300-349	| 4	| 10		| 0.4		| 
+| 350-399	| 3	| 10		| 0.3		| 
+| 400-449	| 1	| 10		| 0.1		| 
+| 450+		| 1	| 10		| 0.1		| 
 #### Table 1.2 – Range Probability of Tesla Car arriving at a Supercharger. 
 
-| Charging Rate (kW)	Stations	Total Stations	Probability
-| 72	56	179	0.312849162
-| 75	1	179	0.005586592
-| 120	2	179	0.011173184
-| 150	67	179	0.374301676
-| 250	53	179	0.296089385
-
+| Charging Rate (kW)	| Stations	| Total Stations	| Probability| 
+| :---: 		| :---: 	| :---: 		| :---:      | 
+| 72			| 56		| 179			| 0.312849162| 
+| 75			| 1		| 179			| 0.005586592| 
+| 120			| 2		| 179			| 0.011173184| 
+| 150			| 67		| 179			| 0.374301676| 
+| 250			| 53		| 179			| 0.296089385| 
 #### Table 1.3 – Charging Rate Probability of a Tesla Supercharger Station.
 
 
