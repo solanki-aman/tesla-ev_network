@@ -4,6 +4,19 @@ Tesla has been a very popular car in the Electric Cars market. With 20,000+ Supe
 
 The location optimization model proposes coordinates for a new Tesla Supercharger with minimum total distance from all other Superchargers in the Bay Area whereas the Charge Time Simulation model gives an estimate of minimum, maximum and average time it takes for a Tesla to be charged at any Supercharger Station. The idea behind the simulation model is to formulate a practical charging time estimate based on the station’s charge rate probability and car’s EPA estimated range probability. It simply translates to average time any Tesla would take to charge at any Supercharging Station.    
 
+![Picture1](https://user-images.githubusercontent.com/63038070/113916174-88bd6680-9794-11eb-94cd-f540559f25d8.png)
+![Picture2](https://user-images.githubusercontent.com/63038070/113916203-9246ce80-9794-11eb-8415-dfd67cb77d92.png)
+![Picture3](https://user-images.githubusercontent.com/63038070/113916213-970b8280-9794-11eb-9fa2-9bc85fa5ce1d.png)
+##### Tree map for Tesla Superchargers in Bay Area Counties.
+##### The color represents the rate at which the specific Supercharger can charge a Tesla. The numbers in the box represent the number of station at the specific address.
+
+
+
+
+
+
+
+
 
 ## Location Optimization Model
 ### Model Formulation:
@@ -18,5 +31,8 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 	di = Distance between New Supercharger Station and Existing Supercharger Station:
 	di = √([(xs-xi]^2 + [(ys-yi)]^2 )
 #### Objective: minimize distance between two stations: 
-	∑ di
+	min ∑ di
+	
+
+
 
