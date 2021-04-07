@@ -16,6 +16,8 @@ Tesla has been a very popular car in the Electric Cars market. With 20,000+ Supe
 #### Tree map for Tesla Superchargers in Bay Area Counties.
 #### The color represents the rate at which the specific Supercharger can charge a Tesla. The numbers in the box represent the number of station at the specific address.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Location Optimization Model
 The location optimization model proposes coordinates for a new Tesla Supercharger with minimum total distance from all other Superchargers in the Bay Area whereas the Charge Time Simulation model gives an estimate of minimum, maximum and average time it takes for a Tesla to be charged at any Supercharger Station. The idea behind the simulation model is to formulate a practical charging time estimate based on the station’s charge rate probability and car’s EPA estimated range probability. It simply translates to average time any Tesla would take to charge at any Supercharging Station. 
@@ -35,6 +37,8 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 	
 <img width="526" alt="m2" src="https://user-images.githubusercontent.com/63038070/113917569-3715db80-9796-11eb-8691-adda29d49ba5.png">
 <img width="532" alt="m1" src="https://user-images.githubusercontent.com/63038070/113917573-37ae7200-9796-11eb-9b71-6d63e9fe6696.png">
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 	
 ## Charging Time Simulation Model
