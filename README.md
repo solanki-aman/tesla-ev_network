@@ -37,6 +37,41 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 <img width="532" alt="m1" src="https://user-images.githubusercontent.com/63038070/113917573-37ae7200-9796-11eb-9b71-6d63e9fe6696.png">
 
 	
+## Charging Time Simulation Model
+
+| Model Name	| Model Description	| Range (EPA est.) (miles)	| Battery Size (kWh)	| Vehicle Energy Efficiency (miles/kWh)| 
+| :---: | :---: | :---: | :---: | :---: |
+| Model 3	| Standard Range Plus	| 263	| 75	| 3.506666667| 
+| Model Y	| Performance	| 303	| 80	| 3.7875| 
+| Model 3	| Performance	| 315	| 80	| 3.9375| 
+| Model Y	| Long Range	| 326	| 80	| 4.075| 
+| Model X	| Plaid	| 340	| 85	| 4| 
+| Model 3	| Long Range	| 353	| 85	| 4.152941176| 
+| Model X	| Long Range	| 360	| 85	| 4.235294118| 
+| Model S	| Plaid	| 390	| 90	| 4.333333333| 
+| Model S	| Long Range	| 412	| 90	| 4.577777778| 
+| Model S	| Plaid+	| 521	| 100	| 5.21| 
+
+#### Table 1.1 – Tesla Car Specifications
+#### Source – Tesla.com, Wikipedia.com
+
+| Range	Cars	Total Cars 	Probability
+| 250-299	1	10	0.1
+| 300-349	4	10	0.4
+| 350-399	3	10	0.3
+| 400-449	1	10	0.1
+| 450+	1	10	0.1
+
+#### Table 1.2 – Range Probability of Tesla Car arriving at a Supercharger. 
+
+| Charging Rate (kW)	Stations	Total Stations	Probability
+| 72	56	179	0.312849162
+| 75	1	179	0.005586592
+| 120	2	179	0.011173184
+| 150	67	179	0.374301676
+| 250	53	179	0.296089385
+
+#### Table 1.3 – Charging Rate Probability of a Tesla Supercharger Station.
 
 
 
