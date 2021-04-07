@@ -1,0 +1,189 @@
+,Address,City,ZipCode,County,ChargingStations,ChargingRate,Longitude,Latitude
+0,523 South Shore Center West,Alameda,94501,Alameda County,12,150,37.7565937,-122.2514747
+1,2404 East Katella Avenue,Anaheim,92806,Orange County,16,250,33.805467,-117.8832043
+2,8148 East Santa Ana Canyon Road,Anaheim,92808,Orange County,14,72,33.8652921,-117.7470499
+3,5769 Lone Tree Way,Antioch,94531,Contra Costa County,10,150,37.9645497,-121.737713
+4,6950 El Camino Real,Atascadero,93422,San Luis Obispo County,8,150,35.4863681,-120.6656
+5,29541 Stockdale Hwy,Bakersfield,93314,Kern County,10,150,35.3542633,-119.3313416
+6,2812 Lenwood Road,Barstow,92311,San Bernardino County,16,150,34.8497498,-117.0848785
+7,1540 E. 2nd Street,Beaumont,92223,Riverside County,20,250,33.9248674,-116.9521269
+8,48123 Highway 1,Big Sur,93920,Monterey County,8,72,36.2291113,-121.7644463
+9,151 South Warren Street,Bishop,93514,Inyo County,12,250,37.3605477,-118.3969269
+10,555 McMurray Rd,Buellton,93427,Santa Barbara County,10,150,34.6156316,-120.1884256
+11,6692 Auto Center Drive,Buena Park,90621,Orange County,8,150,33.8637377,-117.9904739
+12,6940 Beach Boulevard,Buena Park,90621,Orange County,24,72,33.8597851,-117.9977962
+13,495 North Third Street,Burbank,91502,Los Angeles County,20,150,34.1849124,-118.3117213
+14,20673 Tracy Ave.,Buttonwillow,93206,Kern County,10,150,35.40023,-119.39748
+15,48400 Seminole Drive,Cabazon,92230,Riverside County,16,150,33.9271164,-116.8124346
+16,1951 East 20th Street,Chico,95928,Butte County,14,150,39.7260303,-121.8026986
+17,910 Eastlake Parkway,Chula Vista,91914,San Diego County,12,250,32.6506934,-116.9683212
+18,"1975 Diamond Boulevard
+",Concord,94520,Contra Costa County,16,250,37.9688647,-122.0559565
+19,950 Hwy 99 W,Corning,96021,Tehama County,6,150,39.926264,-122.1980619
+20,1618 Redwood Highway,Corte Madera,94925,Marin County,10,72,37.9286,-122.5146368
+21,1000 Front Street,Crescent City,95531,Del Norte County,6,150,41.7517942,-124.1947176
+22,6000 Sepulveda Blvd.,Culver City,90230,Los Angeles County,16,150,33.9854311,-118.3933176
+23,20745 Stevens Creek Boulevard,Cupertino,95014,Santa Clara County,28,250,37.32461139999999,-122.0359767
+24,3 Serramonte Center,Daly City,94015,San Mateo County,40,72,37.6696031,-122.469413
+25,2107-2151 Cowell Blvd,Davis,95618,Yolo County,16,250,38.5405944,-121.7250971
+26,251 Stonewood Street,Downey,90241,Los Angeles County,12,72,33.935768,-118.119984
+27,6701 Amador Plaza Road,Dublin,94568,Alameda County,16,150,37.7027521,-121.9248667
+28,1771 East Bayshore Road,Palo Alto,94303,San Mateo County,20,72,37.4602132,-122.135529
+29,3551 S Dogwood Rd,El Centro,92243,Imperial County,8,150,32.7619663,-115.5314764
+30,280 El Cerrito Plaza,El Cerrito,94530,Contra Costa County,14,72,37.8992693,-122.298414
+31,8451 Elk Grove Boulevard,Elk Grove,95758,Sacramento County,16,250,38.4097437,-121.3917066
+32,5795 Christie Avenue,Emeryville,94608,Alameda County,12,250,37.8378637,-122.2956033
+33,"5959 Shellmound Street
+",Emeryville,94608,Alameda County,12,250,37.8412352,-122.2938314
+34,3300 Broadway St.,Eureka,95501,Humboldt County,8,150,40.7792963,-124.1905928
+35,1350 Holiday Lane,Fairfield,94534,Solano County,12,150,38.2562495,-122.0653457
+36,46272 West Panoche Road,Firebaugh,93622,Fresno County,56,250,36.6397844,-120.6254726
+37,1122 Highway 41,Fish Camp,93623,Mariposa County,8,150,37.4733029,-119.6351947
+38,220 Iron Point Rd,Folsom,95630,Sacramento County,4,150,38.642815,-121.189229
+39,220 Palladio Parkway,Folsom,95630,Sacramento County,30,250,38.6476658,-121.1189469
+40,152234 Summit Avenue,Fontana,92336,San Bernardino County,24,72,34.151104,-117.47141
+41,17940 Newhope St,Fountain Valley,92708,Orange County,16,150,33.7030192,-117.9341451
+42,45500 Fremont Blvd,Fremont,94538,Alameda County,12,250,37.4919144,-121.9403535
+43,43950 Pacific Commons Boulevard,Fremont,94538,Alameda County,12,250,37.501549,-121.9682845
+44,6709 N Riverside Dr,Fresno,93722,Fresno County,10,150,36.8358614,-119.9107599
+45,5001 North Riverside Drive,Fresno,93722,Fresno County,12,250,36.8331972,-119.90778
+46,Gilroy Premium Outlets,Gilroy,95020,Santa Clara County,16,150,37.0226648,-121.5638032
+47,899 Americana Way,Glendale,91210,Los Angeles County,20,72,34.1448467,-118.2576372
+48,7004 Marketplace Drive,Goleta,93117,Santa Barbara County,12,250,34.4289211,-119.8727887
+49,"10823 Zelzah Avenue
+",Granada Hills,91344,Los Angeles County,16,250,34.2668767,-118.5238795
+50,"50 Bon Air Center
+",Greenbrae,94904,Marin County,14,72,37.9469805,-122.526195
+51,11875 Ponderosa Lane,Groveland,95321,Tuolumne County,7,150,37.8385733,-120.2313868
+52,12411 CA-33,Gustine,95322,Merced County,12,150,37.1091068,-121.0169014
+53,24505 W Dorris Ave,Coalinga,93210,Fresno County,18,150,36.250546,-120.2390123
+54,4427 West El Segundo Boulevard,Hawthorne,90250,Los Angeles County,12,72,33.9170182,-118.3537332
+55,2700 West 120th Avenue,Hawthorne,90250,Los Angeles County,16,250,33.92183929999999,-118.3215379
+56,19661 Hesperian Boulevard,Hayward,94541,Alameda County,14,72,37.6662905,-122.1208433
+57,710 16th St.,Hermosa Beach,90254,Los Angeles County,20,250,33.8663811,-118.3937389
+58,12795 Main Street,Hesperia,92345,San Bernardino County,16,250,34.4246587,-117.3834972
+59,42100 Jackson St,Indio,92203,Riverside County,8,150,33.742506,-116.2129267
+60,1353 Brown Road,Inyokern,93527,Kern County,4,150,35.6465727,-117.8125962
+61,"1920 Main Street
+",Irvine,92614,Orange County,24,72,33.6841151,-117.8526637
+62,5406 Walnut Avenue,Irvine,92604,Orange County,8,250,33.6898959,-117.7692599
+63,31 CA-88,Jackson,95642,Amador County,8,250,38.34822,-120.7753696
+64,27675 Bernard Drive,Kettleman City,93239,Kings County,40,250,35.9877522,-119.9619779
+65,17600 Collier Avenue,Lake Elsinore,92530,Riverside County,21,150,33.7007106,-117.3518695
+66,950 Groveland Lane,Lincoln,95648,Placer County,8,250,38.8699549,-121.3042972
+67,2774 Livermore Outlets Drive,Livermore,94551,Alameda County,20,72,37.6985561,-121.8449762
+68,701 S Main St,Lone Pine,93545,Inyo County,8,250,36.6007828,-118.0616923
+69,4800 El Camino Real,Los Altos,94022,Santa Clara County,16,72,37.3989341,-122.1106483
+70,899 South Francisco Street,Los Angeles,90015,Los Angeles County,10,72,34.047385,-118.2646764
+71,142 Los Gatos-Saratoga Road,Los Gatos,95032,Santa Clara County,12,72,37.2284224,-121.9797057
+72,23475 Civic Center Way,Malibu,90265,Los Angeles County,5,72,34.0367649,-118.6875993
+73,3862 Cross Creek Road,Malibu,90265,Los Angeles County,8,250,34.0357267,-118.6842666
+74,1475 Tavern Road,Mammoth Lakes,93546,Mono County,8,150,37.644518,-118.965497
+75,3200 North Sepulveda Boulevard,Manhattan Beach,90266,Los Angeles County,24,72,33.8995437,-118.394016
+76,960 Perimeter Dr,Manteca,95337,San Joaquin County,20,150,37.782622,-121.2286793
+77,280 Spreckels Avenue,Manteca,95336,San Joaquin County,12,250,37.7944428,-121.196629
+78,190 Donahue Street,Marin City,94965,Marin County,16,72,37.8729871,-122.5101792
+79,30340 Haun Road,Menifee,92584,Riverside County,13,150,33.6803456,-117.172245
+80,325 Sharon Park Drive,Menlo Park,94025,San Mateo County,18,72,37.4233487,-122.1969534
+81,447 Great Mall Drive,Milpitas,95035,Santa Clara County,20,72,37.41355799999999,-121.897009
+82,901 East Calaveras Boulevard,Milpitas,95035,Santa Clara County,16,150,37.4347286,-121.8919253
+83,555 The Shops at Mission Viejo,Mission Viejo,92691,Orange County,10,72,33.5587351,-117.6691519
+84,3900 Sisk Road,Modesto,95356,Stanislaus County,12,250,37.6939269,-121.0628914
+85,16940 California 14,Mojave,93501,Kern County,6,150,35.06877,-118.1742072
+86,1901 Del Monte Blvd,Seaside,93955,Monterey County,8,150,36.6171496,-121.8438395
+87,1061 Cochrane Road,Morgan Hill,95037,Santa Clara County,14,72,37.1574777,-121.6545121
+88,1401 N. Shoreline Blvd.,Mountain View,94043,Santa Clara County,12,150,37.414434,-122.0772642
+89,111 Morgan Way,Mt. Shasta,96067,Siskiyou County,4,150,41.3097874,-122.3177
+90,629 Factory Stores Drive,Napa,94558,Napa County,12,120,38.2948329,-122.3027269
+91,221 Devlin Rd,Napa,94558,Napa County,12,150,38.2356915,-122.2645912
+92,2451 Needles HWY,Needles,92363,San Bernardino County,4,150,34.8508297,-114.6242502
+93,3100 Newpark Mall,Newark,94560,Alameda County,16,72,37.52570110000001,-122.0062222
+94,208 Vintage Way,Novato,94945,Marin County,20,150,38.0874371,-122.5526077
+95,255 2nd Street,Oakland,94607,Alameda County,12,72,37.7940963,-122.2725223
+96,640 Hegenberger Road,Oakland,94621,Alameda County,16,250,37.7471504,-122.1950469
+97,987 West Ojai Avenue,Ojai,93023,Ventura County,12,72,34.4422724,-119.258394
+98,2751 Park View Ct,Oxnard,93036,Ventura County,18,150,34.24139900000001,-119.1774486
+99,101 North Museum Drive,Palm Springs,92262,Riverside County,11,72,33.8242065,-116.5499064
+100,1233 Rancho Vista Boulevard,Palmdale,93551,Los Angeles County,12,250,34.6038198,-118.1530999
+101,660 Stanford Shopping Center,Palo Alto,94304,Santa Clara County,20,72,37.4417058,-122.1720994
+102,155 East Green Street,Pasadena,91105,Los Angeles County,24,72,34.144894,-118.14673
+103,2421-2445 Golden Hill Road,Paso Robles,93446,San Luis Obispo County,28,250,35.6454311,-120.6589704
+104,2959 Speno Drive,Patterson,95363,Stanislaus County,8,250,37.4667837,-121.1747525
+105,401 Kenilworth Drive,Petaluma,94952,Sonoma County,20,150,38.2427934,-122.6239879
+106,333 5 Cities Drive,Pismo Beach,93449,San Luis Obispo County,12,250,35.1353853,-120.6279894
+107,1216-1252 Broadway,Placerville,95667,El Dorado County,12,150,38.7303505,-120.7875657
+108,"12746 W Jefferson Blvd
+",Playa Vista,90094,Los Angeles County,14,72,33.9771391,-118.4175837
+109,6000 Johnson Drive,Pleasanton,94588,Alameda County,10,72,37.7000122,-121.9105089
+110,12642 Cultural Center Dr.,Rancho Cucamonga,91739,San Bernardino County,12,150,34.1135051,-117.5320269
+111,71800 CA-111,Rancho Mirage,92270,Riverside County,24,72,33.741243,-116.4097986
+112,82 Belle Mill Road,Red Bluff,96080,Tehama County,8,250,40.181573,-122.228088
+113,2410 Marine Avenue,Redondo Beach,90278,Los Angeles County,8,150,33.8938783,-118.3666025
+114,3288 Pierce St,Richmond,94804,Contra Costa County,16,250,37.898365,-122.3077125
+115,2157 Meeker Avenue,Richmond,94804,Contra Costa County,12,150,37.9205128,-122.3483565
+116,2755 Canyon Springs Parkway,Riverside,92507,Riverside County,12,250,33.938665,-117.2824913
+117,475 Rohnert Park Expressway,Rohnert Park,94928,Sonoma County,12,150,38.3461728,-122.7204316
+118,1120 Galleria Boulevard,Roseville,95678,Placer County,20,150,38.768924,-121.2631731
+119,1151 Galleria Blvd,Roseville,95678,Placer County,7,150,38.7734303,-121.269432
+120,1689 Arden Way,Sacramento,95815,Sacramento County,19,150,38.601162,-121.4269354
+121,4700 Freeport Blvd,Sacramento,95822,Sacramento County,8,250,38.5330582,-121.4959586
+122,4361 Granite Drive,Rocklin,95677,Placer County,18,150,38.8003254,-121.2107191
+123,500 Inland Center Drive,San Bernardino,92408,San Bernardino County,14,72,34.0850828,-117.29737
+124,1127 Industrial Road,San Carlos,94070,San Mateo County,19,75,37.5023352,-122.2442068
+125,990 Avenida Vista Hermosa,San Clemente,92673,Orange County,12,250,33.4638539,-117.6062601
+126,10155 Pacific Heights Blvd,San Diego,92121,San Diego County,12,150,32.9033057,-117.1940842
+127,1350 6th Avenue,San Diego,92101,San Diego County,16,72,32.7194114,-117.1595539
+128,5617 Balboa Avenue,San Diego,92111,San Diego County,16,250,32.819845,-117.1789269
+129,17170 Camino Del Sur,San Diego,92127,San Diego County,12,72,33.0194524,-117.1251884
+130,3275 Del Mar Heights Road,San Diego,92014,San Diego County,18,72,32.9524569,-117.2371855
+131,7007 Friars Road,San Diego,92108,San Diego County,24,72,32.7700062,-117.1633768
+132,601 Van Ness Avenue,San Francisco,94102,San Francisco County,12,72,37.7813653,-122.4215253
+133,1375 Blossom Hill Road,San Jose,95118,Santa Clara County,18,72,37.2449438,-121.88988
+134,5160 Cherry Avenue,San Jose,95118,Santa Clara County,24,72,37.2571749,-121.8734276
+135,533 Coleman Avenue,San Jose,95110,Santa Clara County,12,150,37.3386461,-121.9044629
+136,1029 East Capitol Expressway,San Jose,95121,Santa Clara County,20,250,37.2996264,-121.823065
+137,"95 Holger Way
+",San Jose,95134,Santa Clara County,14,72,37.4181795,-121.9561986
+138,330 South Winchester,San Jose,95128,Santa Clara County,26,72,37.3221786,-121.9492664
+139,330 South Winchester Santana Row,San Jose,95128,Santa Clara County,10,72,37.3221764,-121.9493311
+140,31971 Camino Capistrano,San Juan Capistrano,92675,Orange County,7,150,33.4983438,-117.6628729
+141,100 Madonna Road,San Luis Obispo,93405,San Luis Obispo County,18,72,35.26677859999999,-120.6757085
+142,1200 Park Place,San Mateo,94403,San Mateo County,8,150,37.54614,-122.2902433
+143,1206 West Hillsdale Boulevard,San Mateo,94403,San Mateo County,12,250,37.533707,-122.3273303
+144,2415-2505 San Ramon Valley Boulevard,San Ramon,94583,Contra Costa County,20,72,37.7747486,-121.9795256
+145,2610 Bishop Drive,San Ramon,94583,Contra Costa County,10,150,37.7621464,-121.9641968
+146,"300 East 5th Street
+",Santa Ana,92701,Orange County,20,72,33.7486661,-117.865313
+147,3945 Rivermark Plaza,Santa Clara,95054,Santa Clara County,16,72,37.394667,-121.9451212
+148,24061 Newhall Ranch Road,Valencia,91355,Los Angeles County,32,250,34.4309261,-118.5562968
+149,911 Soquel Avenue,Santa Cruz,95062,Santa Cruz County,16,250,36.978945,-122.014572
+150,395 Santa Monica Place,Santa Monica,90401,Los Angeles County,10,72,34.0138617,-118.4939796
+151,733 Coddingtown Center,Santa Rosa,95401,Sonoma County,20,250,38.4565496,-122.7278971
+152,230 Mount Hermon Road,Scott's Valley,95066,Santa Cruz County,16,250,37.0482571,-122.026377
+153,51 Tierra Rejada Road,Simi Valley,93065,Ventura County,12,250,34.2734901,-118.798316
+154,250 Gateway Boulevard,South San Francisco,94080,San Mateo County,20,72,37.655462,-122.4009325
+155,2323 Grand Canal Boulevard,Stockton,95207,San Joaquin County,12,250,37.9845542,-121.3357563
+156,140 Lake Boulevard,Tahoe City,96145,Placer County,6,150,39.1678941,-120.1443872
+157,5602 Dennis McCarthy Dr,Lebec,93243,Kern County,24,150,34.9866542,-118.9461324
+158,40820 Winchester Rd.,Temecula,92591,Riverside County,10,72,33.5245692,-117.1546001
+159,350 West Hillcrest Drive,Thousand Oaks,91360,Ventura County,20,72,34.1843078,-118.8881216
+160,3490 Fashion Way,Torrance,90503,Los Angeles County,20,250,33.8350793,-118.3486847
+161,36005 CA-99,Traver,93673,Tulare County,16,250,36.448379,-119.4860793
+162,11209 Brockway Road,Truckee,96161,Nevada County,8,150,39.3220791,-120.1630768
+163,11290 Donner Pass Rd,Truckee,96161,Nevada County,11,150,39.3272037,-120.2064298
+164,250 W Clay St.,Ukiah,95482,Mendocino County,8,150,39.1481137,-123.2086933
+165,321 Nut Tree Road,Vacaville,95687,Solano County,16,150,38.3668064,-121.9573643
+166,904 Admiral Callaghan Lane,Vallejo,94591,Solano County,14,150,38.1316646,-122.2226661
+167,1153 Locust Street,Walnut Creek,94596,Contra Costa County,24,150,37.8952909,-122.0613846
+168,1415 Main Street,Watsonville,95076,Santa Cruz County,14,72,36.9150924,-121.7741494
+169,21361 Gulf Freeway,Webster,77598,Harris County,12,120,29.5194931,-95.122483
+170,1025 Westminster Mall,Westminster,92683,Orange County,24,72,33.74754900000001,-118.0116211
+171,464 6th Street,Williams,95987,Colusa County,12,250,39.155555,-122.1489458
+172,2185 Bronze Star Drive,Woodland,95776,Yolo County,8,250,38.6727067,-121.7248895
+173,2185 Bronze Star Drive,Woodland,95776,Yolo County,8,250,38.6727067,-121.7248895
+174,36017 Calico Road,Yermo,92398,San Bernardino County,18,150,34.9077184,-116.8358054
+175,1475 Tharp Road,Yuba City,95993,Sutter County,10,150,39.1481393,-121.6469914
+176,787 S. Alameda Street,Los Angeles,90021,Los Angeles County,16,72,34.0336749,-118.2410297
+177,"17803 Venture Drive
+",Hagerstown,21740,Washington County,8,250,39.608781,-77.75056699999999
+178,3379 Crompond Road,Yorktown Heights,10589,Westchester County,12,150,41.2903334,-73.8305113
