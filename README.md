@@ -5,6 +5,7 @@ Tesla has been a very popular car in the Electric Cars market. With 20,000+ Supe
 
 <img width="1507" alt="Screenshot 2021-04-07 113537" src="https://user-images.githubusercontent.com/63038070/113917060-98897a80-9795-11eb-80d2-17c38346f29d.png">
 <img width="121" alt="Screenshot 2021-04-07 113554" src="https://user-images.githubusercontent.com/63038070/113917058-97f0e400-9795-11eb-8073-96b447055ad2.png">
+
 ####  Tesla Supercharging Station in the Bay Area. The size of the circle represents the number of chargers at the stations and the color represents the rate at which the specific Supercharger can charge a Tesla.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -12,6 +13,7 @@ Tesla has been a very popular car in the Electric Cars market. With 20,000+ Supe
 <img width="677" alt="Picture1" src="https://user-images.githubusercontent.com/63038070/113916987-7ee83300-9795-11eb-95ad-35a273646edc.png">
 <img width="752" alt="Picture2" src="https://user-images.githubusercontent.com/63038070/113916988-7f80c980-9795-11eb-82c2-3ef506aca161.png">
 <img width="120" alt="Picture3" src="https://user-images.githubusercontent.com/63038070/113916989-80196000-9795-11eb-86c3-db517c925f71.png">
+
 ####  Tree map for Tesla Superchargers in Bay Area Counties. The color represents the rate at which the specific Supercharger can charge a Tesla. The numbers in the box represent the number of station at the specific address.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
