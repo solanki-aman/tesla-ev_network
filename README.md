@@ -39,18 +39,18 @@ The location optimization model proposes coordinates for a new Tesla Supercharge
 	
 ## Charging Time Simulation Model
 
-| Model Name	| Model Description	| Range (EPA est.) (miles)	| Battery Size (kWh)	| Vehicle Energy Efficiency (miles/kWh)| 
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Model 3	| Standard Range Plus	| 263	| 75	| 3.506666667| 
-| Model Y	| Performance	| 303	| 80	| 3.7875| 
-| Model 3	| Performance	| 315	| 80	| 3.9375| 
-| Model Y	| Long Range	| 326	| 80	| 4.075| 
-| Model X	| Plaid	| 340	| 85	| 4| 
-| Model 3	| Long Range	| 353	| 85	| 4.152941176| 
-| Model X	| Long Range	| 360	| 85	| 4.235294118| 
-| Model S	| Plaid	| 390	| 90	| 4.333333333| 
-| Model S	| Long Range	| 412	| 90	| 4.577777778| 
-| Model S	| Plaid+	| 521	| 100	| 5.21| 
+| Model Name	| Model Description	| Range (EPA est.) (miles)	| Battery Size (kWh)	| Vehicle Energy Efficiency (miles/kWh) |
+| :---: 	| :---: 		| :---: 			| :---: 		| :---: 				|
+| Model 3	| Standard Range Plus	| 263				| 75			| 3.506666667				| 
+| Model Y	| Performance		| 303				| 80			| 3.7875				| 
+| Model 3	| Performance		| 315				| 80			| 3.9375				| 
+| Model Y	| Long Range		| 326				| 80			| 4.075					| 
+| Model X	| Plaid			| 340				| 85			| 4					| 
+| Model 3	| Long Range		| 353				| 85			| 4.152941176				| 
+| Model X	| Long Range		| 360				| 85			| 4.235294118				| 
+| Model S	| Plaid			| 390				| 90			| 4.333333333				| 
+| Model S	| Long Range		| 412				| 90			| 4.577777778				| 
+| Model S	| Plaid+		| 521				| 100			| 5.21					| 
 
 #### Table 1.1 – Tesla Car Specifications
 #### Source – Tesla.com, Wikipedia.com
